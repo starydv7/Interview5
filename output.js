@@ -3,9 +3,13 @@ console.log(res);
 console.log(typeof (res));
 
 
+
+
+
 function AddNumber() {
     for (var i = 0; i < 5; i++){
         console.log(i);
     }
 }
 AddNumber();
+
